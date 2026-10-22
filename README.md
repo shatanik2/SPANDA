@@ -46,6 +46,7 @@ and their summaries) for one star. Provide the KIC number, the initial $`\nu_{\m
 $`\Delta\nu`$ (in $`\mu\mathrm{Hz}`$) and the folder containing the power spectrum:
 
 ```bash
+chmod +x run_single_star.sh
 ./run_single_star.sh <KIC> <NUMAX> <DNU> <PSD_DIR> [PSD_PATTERN] [WORK_DIR]
 
 # example, for KIC 8684542
