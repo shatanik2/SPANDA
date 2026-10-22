@@ -1,7 +1,12 @@
 # SPANDA-Stage 1 background fits: Kepler long-cadence red giants
 
-File: `SPANDA_Stage1_Kepler_LC_bkg_fits_15792.csv` available over Zenodo as Bhattacharya et al. , licensed under the Creative Commons Attribution 4.0 International. 
-Its link will be provided upon the unrestricted publication of the Zenodo upload.
+File:
+
+* `SPANDA_Stage1_Kepler_LC_bkg_fits_15792.csv`: background fits from SPANDA-Stage 1
+
+This file is archived on Zenodo (doi:[10.5281/zenodo.23530405](https://doi.org/10.5281/zenodo.23530405);
+access restricted until the publication of Bhattacharya et al., in prep.) and is licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 This catalogue contains the background fits obtained with `SPANDA-Stage 1` for
 **15,792** red-giant and red-clump stars observed by *Kepler* in long cadence.
