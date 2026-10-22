@@ -1,0 +1,7 @@
+numpy==2.4.6
+scipy==1.17.1
+pandas==2.3.3
+matplotlib==3.11.1
+corner==2.3.0
+jax==0.10.2
+numpyro==0.21.0
