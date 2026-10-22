@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SPANDA outputs and data
+runs/
+logs*/
+*.log
+*.npy
+*.csv
+*_fit_pdfs/
+stage*_plots/
+stage*_summary_*/
+epsilon_p_estimates/
+p_mode_frequencies/
+stage2a_epsilon_p_summary.txt
