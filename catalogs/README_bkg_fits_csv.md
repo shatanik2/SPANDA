@@ -12,7 +12,7 @@ This catalogue contains the background fits obtained with `SPANDA-Stage 1` for
 **15,792** red-giant and red-clump stars observed by *Kepler* in long cadence.
 There is one row per star, identified by its KIC number and sorted by it.
 
-If you use this catalogue, please cite the SPANDA paper **Bhattacharya et al.** (submitted, reference to be added on publication).
+If you use this catalogue, please cite the SPANDA paper **Bhattacharya et al.** (reference to be added on publication).
 
 ## Model
 
